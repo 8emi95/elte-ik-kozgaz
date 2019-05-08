@@ -1,0 +1,125 @@
+File: Közgáz 3. elõadás
+___________________________________________________________________________________________________________________________________________________________
+>>>KERESLET, KÍNÁLAT, PIACOK<<<
+___________________________________________________________________________________________________________________________________________________________
+
+- ezek biztosítják a piacgazd. mûködését
+- ker. és kín: a vásárlól és az eladók egymásra ható viselkedése
+- VÁSÁRLÓK döntenek a keresletrõl, az eladók a kínálatról
+___________________________________________________________________________________________________________________________________________________________
+PIACSZERKEZETEK
+___________________________________________________________________________________________________________________________________________________________
+- versenyzõ piac:
+	- sok eladó és vásárló
+	- elhanyagolható befolyásuk van az árra
+- tökéletes verseny
+	- tökéletesen egyforma termék
+	- sok ea., vás.
+	- mindenki árelfogadó
+	- a piaci áron
+		- minden vevõ megveszi, amit szeretne
+		- minden ea. eladja, amit szeretne
+- monopólium
+	- egyetlen ea. és meghatározza az árat
+	- pl. MÁV, BKK -> amiket az állam szolgáltat
+- oligopólium
+	- több, de még elég kevés eladó van a piacon
+- monopszónium
+	- Egyetlen vásárló van a piacon (pl. hadsereg, ûrkutatás)
+- monopolisztikus verseny
+	- sok szereplõ, alaptulajdonságokban hasonló (de nem ugyanolyan!) termékek, mindenki meghatározza a saját terméke árát
+	- fontos a márka (pl. borok piaca, ruházat)
+- van még ezeken kívül sok másféle
+___________________________________________________________________________________________________________________________________________________________
+KERESLET
+___________________________________________________________________________________________________________________________________________________________
+- keresett mennyiség: hajlandó és képes megvásárolni a vásárló
+- kereslet tv.: árnövekedés esetém a jószágból keresett mennyiség csökken (nem növekszik) (minden egyéb változatlan marad)
+	- vannak kivételek: Giffen jószágok, Veblen jószágok (árnövekedésével a keresett mennyiség nõ) -> azért vesz többet, mert a másikra nem marad pénze, hogy ezt fizesse
+												       -> drágább az jobb (Veblen)
+- kereslettáblázat - bizonyos árak mellett mennyi terméket fogyaszt valaki
+
+- keresleti görbe negatív meredekségû= alacsonyabb keresett menny. magasabb ár mellett MINDEN EGYÉB VÁLTOZATLANSÁGA MELLETT
+- piaci kereslet - emberek keresletének összege (vízszintes tengely menti összegzés!)
+- árváltozás hatása: keresett menny. változik -> a görbén
+KERESLET VÁLTOZÁSAI (nem árváltozás hatására!)
+- kereslet növekedése
+	- keresleti görbe jobbra tolódik
+- kereslet csökkenése
+	- keresleti görbe balra tolódik
+A keresletet meghatározó tényezõk:
+- piaci ár
+- jövedelem változása
+	- normál jószág -> nõ a kereslet
+	- alsóbbrendû jószág (inferior) -> csökken a kereslet (pl. no-name nutella)
+- kapcsolódó jószágok árváltozása
+	- pl. olcsóbb jégkrém -> kevesebb fagyi (helyettesítõtermékek) pl. coca cola <-> pepsi
+	- olcsóbb mozijegy -> több pop-corn fogyasztás (egymás kiegészítõ termékei)
+- ízlés változása, külsõ körülmények változása
+	- divatba jön egy ruhadarab
+	- nyáron többet is adhatunk ugyanannyi fagyiért
+- vevõk számának változása
+	- gyors nép.növ -> ingatlan iránti kereslet nõ
+	- egy termékrõl leterjed, hogy egészségtelen -> termék iránti kerelet csökken
+- várakozások változása
+	- ha rossz a mogyorótermés, arra számítunk, hogy emelkedni fog a nutella ára -> most sokat veszünk belõle
+___________________________________________________________________________________________________________________________________________________________
+KÍNÁLAT
+___________________________________________________________________________________________________________________________________________________________
+- kínált mennyiség: amennyit az eladó adott áron hajlandó és képes eladni
+- kínálat tv: ha egy jószág ára nõ, a kínált mennyiség is nõ
+- kínálattáblázat adott eladó adott árak mellett mekkora mennyiséget kínál eladásra
+- kínálati görbe meredeksége pozitív
+- piaci kínálat a görbék vízszintes tengelye menti összegzés (kínált mennyiség az ár fgv-ében)
+- bármi más hatása, ami nem árváltozás: az egész görbe tolódik el
+
+A kínálatot megh. tényezõk
+- piaci ár
+- tényezõárak változása
+	- nõnek -> kevesebb kínálat
+	pl. a búza ára nõ -> kenyér kínálata csökken (görbe balra tolódik)
+- a technológia változása
+	- fejlõdés -> adott ár mellett többet tud kínálni
+- a várakozások
+	- pl. egy valaki arra számít, hogy pár év múlva divatba jön valami -> jelenben csökkenti a kínálatát ebbõl a valamibõl, mert a jövõben majd jobban el tudja adni
+	pl. aukciósház -> nem ad el festményeket sokat, csak ha divatba jön
+- a termelõk száma
+	- kevesebb termelõ -> kínálat csökken
+	- több termelõ -> kínálat nõ
+___________________________________________________________________________________________________________________________________________________________
+EGYENSÚLY (ELMÉLETBEN)
+___________________________________________________________________________________________________________________________________________________________
+- piac egyensúly: kínálat=kereslet
+	- egyensúlyi ár, amellyel az egyensúly létrejön
+	- egyensúlyi mennyiség, amennyi jószág gazdát cserél
+	- grafikonon: ahol a keresleti és a kínálati görbe metszi egymást
+- túlkínálat: ár > egyensúlyi ár
+	- felesleg keletkezik -> termelõnek érdekében áll lejjebb vinni az árat
+	- vevõk alkudnak
+- túlkereslet
+	- ár < egyensúlyi ár
+	- kínálati < kereseti mennyiség
+	- hiány keletkezik
+	- termelõknek érdeke árat emelni
+	- vevõk túllicitálják egymást
+- felesleg lefelé nyomja az árat
+- hiány felfelé nyomja az árat
+___________________________________________________________________________________________________________________________________________________________
+PIACI EGYENSÚLYOK VÁLTOZÁSA (lásd diasorbeli ábrák)
+___________________________________________________________________________________________________________________________________________________________
+1. a keresleti, vagy a kínálati görbére hatnak a változások?
+2. Melyik irányba mozdul(nak) a görbé(k)?
+3. Régi és új egyensúlyi állapot összehasonlítása
+Pl. fagyi
+forró szeptember (mindenki fagyit akar enni) -> új egyensúlyben megnövekedett az ár is meg a keresett mennyiség is (keresleti görbét tolja el)
+pl. sztrájkolnak a tejtermelõk
+kereslet marad, csökkenni fog a kínálat, nõnek az árak -> kínálati görbe tolódik el -> keresett mennyiség csökken
+- árváltozás: mozgás a keresleti/kínálati görbén
+- minden egyéb: valamelyik görbe tolódik el
+pl. szalmonellajárvány
+tejtermék egy része megsemmisül -> kisebb kínálat
+de az emberek is bizalmatlanok lesznek -> kereslet is csökken -> mindkét görbe eltolódik
+árváltozás bizonytalan, de a mennyiség csökken
+Pl. Megjelenik az Uber -> kereslet csökken a taxira -> keresleti görbe balra tolódik -> csökkenteni kell a taxi árát
+
+EOF
